@@ -10,6 +10,6 @@ I am a computer science enthusiast with a strong background in:
 - **3D Stereoscopic**
 - **Computer Vision**
 
-I am particularly passionate about exploring the potential of **Deep Learning** and **Machine Learning** to solve complex problems and innovate new solutions.
+I am particularly passionate about exploring the potential of **Deep Learning** to solve complex problems and innovate new solutions.
 
 Feel free to explore my repositories and connect with me!
